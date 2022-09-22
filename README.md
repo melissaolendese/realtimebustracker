@@ -1,8 +1,13 @@
 # MIT Real Time Bus Tracker
-Eye Exercise is a project that allows a set of eyes to follow your cusor movement.  This was a great coding assignment that allowed me to practice different CSS stylings and coding cusor movement for the first time!
+This Real Time Bus Tracker uses mapbox to allow you to follow the bus system between MIT and Harvard.  The map also allows you to see real time traffic conditions.
 ## How to Run
-Simply follow my link to open up the HTML file to watch those eyes follow you around.
+1. Clone the repository into your local environment
+2. Navigate to https://account.mapbox.com/ and create an account
+3. Copy the Default public token or generate your own
+4. Open the mapanimation.js file and add your token in the
+5. Open the index.html file
+6. Right click and select 'Open Default browser' to open the project in your default browser.
 ## Roadmap to Future Installments
-I would love to hear any suggestions on what the next iteration of this could look like!  We could change colors, cusor icons, or change the styles of the eyes as well.  I'd love to hear suggestions on what you think the next steps could look like.
+I would love to hear any suggestions on what the next iteration of this could look like!  Thoughts on the road map of this project includes a bus icon to follow the route and possible alerts when a bus has arrived at a station.
 ## License Information
 [MIT](https://choosealicense.com/licenses/mit/)
